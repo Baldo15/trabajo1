@@ -1,0 +1,23 @@
+{
+  "name": "trabajo",
+  "version": "1.0.0",
+  "description": "trabajo de nivelacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Baldo15"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "baldomero osorio",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
